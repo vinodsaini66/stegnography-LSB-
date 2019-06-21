@@ -1,0 +1,7 @@
+To achieve a high embedding e?ciency which indicates the average bit number of embedded secret data per change, 
+the ordered triple (1,7,3) is used in our scheme as an example of matrix encoding. Accordingly, 
+the structure of the four-pixel block in the cover image of previous schemes also needs to be changed.
+In the proposed scheme, as shown in Figure 5, every three pixels form a block so as to implement the matrix encoding.
+ Suppose that we choose m1,m2,m3,m4,m5,m6,m7 from the three pixels ˆ X, ˆ V , ˆ W in each block as an embedding cell. 
+And each shadow pixel is converted into binary bits s1,s2,s3 as secret data to be embedded. 
+The following is a basic algorithm that reveals the principle of the proposed scheme for embedding.
